@@ -16,7 +16,7 @@ Create a new MySQL database and import the naava.sql file included in the root f
 Configure the config.php file with your MySQL database credentials.
 Upload the source code to your text editor.
 To open the application, run Xampp, start Apache and MySQL the click Admin for each option.
-Then open the browser and go to http://localhost/naava_diana/index.php
+Then open the browser and go to http://localhost/car_rentals/index.php
 
 Usage
 Open the application in your web browser.
