@@ -3,7 +3,7 @@ This web application's purpose is to create, read, update and delete (CRUD) the 
 
 INSTALLATION
 I have created it using HTML, CSS, and bootstrap for front-end as well as PHP-PDO and Mysql database for back-end. Since it involves scripting i installed Xampp server which has some features like Apache for hosting PHP scripts, as well as MYSQL to act as the database engine.
-To use it first save the project in htdocs folder in xampp and this step is very crucial, open xampp, start apache and mysql, go to http://localhost/marion's/ where you will be prompted to login;
+To use it first save the project in htdocs folder in xampp and this step is very crucial, open xampp, start apache and mysql, go to http://localhost/car_inventory/ where you will be prompted to login;
     (i)You can login using these details; email=jac06@gmail.com and password= qwertyuiop
     (ii) You can click on the register link and create a user account for yourself.
 When you login it redirects you to dashboard.php,from where you can access links to all pages.
