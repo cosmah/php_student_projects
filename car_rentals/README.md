@@ -28,4 +28,4 @@ To delete a rental, click the "Delete" button next to the rental in the table on
 to navigate back to the home page you click the abort button.
 
 Credits
-This application was built by Naava Diana as a sample project.
+This application was built by cosmah
